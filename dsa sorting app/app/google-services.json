@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787992337684",
+    "project_id": "srimadpro1",
+    "storage_bucket": "srimadpro1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787992337684:android:3e39ead267a40d5c22b601",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787992337684-peflkpf08i6tb6mgirkn5aumdonkaqlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6Hr55cygg41rqOLGfcjOAJhkRk4t0yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787992337684-peflkpf08i6tb6mgirkn5aumdonkaqlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
